@@ -9,7 +9,7 @@ As an entry-level SOC Analyst with 9 years of experience in quality assurance an
 Here you will find detailed reports from my labs and personal projects.
 
 * **Incident Response Analysis**  
-  * [**Data Leak Incident Report**](https://www.google.com/search?q=entry_level_cybersecurity_project_writeup.md): A detailed analysis of an internal data leak, including a review of NIST controls (AC-6 Least Privilege) and remediation recommendations.  
+  * [**Data Leak Incident Report**](Incident Report.md): A detailed analysis of an internal data leak, including a review of NIST controls (AC-6 Least Privilege) and remediation recommendations.  
 * **\[Future Project Category (e.g., Network Analysis)\]**  
   * *(Coming Soon)*  
 * **\[Future Project Category (e.g., Malware Analysis)\]**  
