@@ -9,16 +9,14 @@ As an entry-level SOC Analyst with 9 years of experience in quality assurance an
 Here you will find detailed reports from my labs and personal projects.
 
 * **Incident Response Analysis**  
-  * [**Incident Report.md**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Incident%20Report.md): A detailed analysis of an internal data leak, including a review of NIST controls (AC-6 Least Privilege) and remediation recommendations.  
-* **\[Future Project Category (e.g., Network Analysis)\]**  
-  * *(Coming Soon)*  
-* **\[Future Project Category (e.g., Malware Analysis)\]**  
-  * *(Coming Soon)*
+  * [**Incident Report**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Incident%20Report.md): A detailed analysis of an internal data leak, including a review of NIST controls (AC-6 Least Privilege) and remediation recommendations.  
+* **Reporting Skills**  
+  * [**SQL Filtering**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries.md): An example of me using filtering with SQL.
 
 ## **Technical Skills**
 
 * **Certifications:** CompTIA Security+, Google Cybersecurity Professional  
-* **Core Skills:** SIEM, Incident Response, Documentation, Linux, Python  
+* **Core Skills:** SIEM, Incident Response, Documentation, Linux, Python, SQL
 * **Platforms:** TryHackMe ([cody.keppen](https://tryhackme.com/p/cody.keppen))
 
 ## **Contact**
