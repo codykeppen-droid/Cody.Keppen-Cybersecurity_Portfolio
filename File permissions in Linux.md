@@ -6,8 +6,21 @@ I am acting as a security professional at a large organization, primarily workin
 
 ## Check file and directory details
 
-![][image1]  
- 
+I changed to the projects director to review the files and check their current permissions, shown below. <br>
+
+```
+researcher2@d2a04414eb3f:~$ cd projects
+researcher2@d2a04414eb3f:~/projects$ ls -la
+total 32
+drwxr-xr-x 3 researcher2 research_team 4096 Nov 2 20:00 .
+drwxr-xr-x 3 researcher2 research_team 4096 Nov 2 21:21 ..
+-rw--w---- 1 researcher2 research_team   46 Nov 2 20:00 .project_x.txt
+drwx--x--- 2 researcher2 research_team 4096 Nov 2 20:00 drafts
+-rw-rw-rw- 1 researcher2 research_team   46 Nov 2 20:00 project_k.txt
+-rw-r----- 1 researcher2 research_team   46 Nov 2 20:00 project_m.txt
+-rw-rw-r-- 1 researcher2 research_team   46 Nov 2 20:00 project_r.txt
+-rw-rw-r-- 1 researcher2 research_team   46 Nov 2 20:00 project_t.txt
+```
 
 ## Describe the permissions string
 
@@ -15,7 +28,9 @@ This 1 directory and 5 files, 1 hidden,  in the home/researcher2/projects  direc
 
 The directory ‘drafts’ gives read, write and execute permissions for the user, while also giving execute permissions to the research\_team group. There are no permissions for the other group.
 
-![][image2]
+```
+drwx--x--- 2 researcher2 research_team 4096 Nov 2 20:00 drafts
+```
 
 This is found by viewing the d/r/w/x/- indicators after the d. The beginning line will either be a ‘d’ or a ‘-’. The ‘d’ representing a directory while the ‘-’ represents a file. The ‘r’ represents read access, allowing a user to access the file. The ‘w’ is permissions to modify the file. The ‘x’ represents the ability to execute an executable command or program. The ‘-’ indicates no access.
 
@@ -25,7 +40,9 @@ The first three characters after the d (rwx) represent the user level. Which giv
 
 Per company policy, the other permission group is not to allowed to have writer access. While reviewing the permissions, it was found that the file project\_k did have writer access.
 
-![][image3]
+```
+-rw-rw-rw- 1 researcher2 research_team   46 Nov 2 20:00 project_k.txt
+```
 
 Using the chmod command, chmod o-w project\_k.txt, the writer access was removed and confirmed using the ls \-la command.
 
