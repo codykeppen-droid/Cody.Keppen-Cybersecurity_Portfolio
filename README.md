@@ -1,4 +1,3 @@
-
 # **Cody Keppen's Cybersecurity Portfolio**
 
 Welcome to my portfolio. This repository contains write-ups, lab work, and projects demonstrating my skills in cybersecurity. I just started using Github in November and any advice would be appreciated as I learn to use this as a portfolio.
@@ -16,7 +15,10 @@ Here you will find detailed reports from my labs and personal projects.
   * [**Network Traffic Analysis using tcpdump**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.md): Report of a possible DoS attack after using tcpdump after reports of customers getting an error message when visiting the company website.
   * [**Brute Force Incident Report**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Security%20incident%20report%20%20-%20Brute%20Force.md): Report of a Brute Force attack after reviewing newtork logs.
 
-* **Technical Skills Examples**  
+* **Technical Skills Examples**
+  * [**Home Lab Creation**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Home%20Lab%20Creation.md): My documentation on creating my first home lab.
+  * [**Virtual Machine Environment Setup**] *Documentaiton in Progress*
+  * [**Virtual Machines- Attacking Vulnerable Machines**] *Documentation in Progress*
   * [**SQL Filtering**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries.md): An example of me using filtering with SQL.
   * [**Algorithm for file updates in Python**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Algorithm%20for%20file%20updates%20in%20Python.md): A demonstration of me using Python to create an algorithm to update a file. Removing IP addresses in a removed list from an approval list.
   * [**Updating File permissions in Linux CLI**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/File%20permissions%20in%20Linux.md): A simulation of updating the file permissions in Linux using the command line interface.
