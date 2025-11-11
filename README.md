@@ -13,6 +13,7 @@ Here you will find detailed reports from my labs and personal projects.
   * [**Incident Report**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Incident%20Report.md): A detailed analysis of an internal data leak, including a review of NIST controls (AC-6 Least Privilege) and remediation recommendations.
   * [**Alert Ticket Escalation**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Alert%20ticket%20escalation.md): An example of investigating a ticket with VirusTotal, discovering a possible cyber event, then escalating the ticket in a timely manner with relevent information for the next operator.
   * [**Reporting on possible DoS attack**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Cybersecurity%20incident%20report%20-%20DoS%20Logs.md): Simulated report of a possible DoS attack with additional information of what a DoS attack is.
+    
 * **Technical Skills Examples**  
   * [**SQL Filtering**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries.md): An example of me using filtering with SQL.
   * [**Algorithm for file updates in Python**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Algorithm%20for%20file%20updates%20in%20Python.md): A demonstration of me using Python to create an algorithm to update a file. Removing IP addresses in a removed list from an approval list.
