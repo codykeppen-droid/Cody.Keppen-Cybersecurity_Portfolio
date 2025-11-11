@@ -26,7 +26,7 @@ drwx--x--- 2 researcher2 research_team 4096 Nov 2 20:00 drafts
 
 There is 1 directory and 5 files, 1 being hidden, in the ```home/researcher2/projects```  directory.
 
-The directory ```drafts``` gives read, write and execute permissions for the user, while also giving execute permissions to the ```research\_team``` group. There are no permissions for the other group.
+The directory ```drafts``` gives read, write and execute permissions for the user, while also giving execute permissions to the ```research_team``` group. There are no permissions for the other group.
 
 ```
 drwx--x--- 2 researcher2 research_team 4096 Nov 2 20:00 drafts
@@ -120,6 +120,6 @@ This is now confirmed with the line, ```drwx------``` for the ```drafts``` folde
 
 During this project to audit the permission of the folders for ```researcher2```, it was discovered that the other permission group had write access for ```project_k.txt```, which was removed.
 
-The hidden file .project\_x.txt was also found to have writer access at the user and group level. Both of these access have been removed.
+The hidden file `.project_x.txt` was also found to have writer access at the user and group level. Both of these access have been removed.
 
-The drafts folder for researcher2 was found to have the execute permission allowed for the research\_team, group level. Only researcher2 should have this access, so this was removed.
+The drafts folder for researcher2 was found to have the execute permission allowed for the `research_team`, group level. Only researcher2 should have this access, so this was removed.
