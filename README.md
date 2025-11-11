@@ -14,6 +14,7 @@ Here you will find detailed reports from my labs and personal projects.
   * [**Alert Ticket Escalation**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Alert%20ticket%20escalation.md): An example of investigating a ticket with VirusTotal, discovering a possible cyber event, then escalating the ticket in a timely manner with relevent information for the next operator.
   * [**Reporting on possible DoS attack**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Cybersecurity%20incident%20report%20-%20DoS%20Logs.md): Simulated report of a possible DoS attack with additional information of what a DoS attack is.
   * [**Network Traffic Analysis using tcpdump**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.md): Report of a possible DoS attack after using tcpdump after reports of customers getting an error message when visiting the company website.
+  * [**Brute Force Incident Report**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Security%20incident%20report%20%20-%20Brute%20Force.md): Report of a Brute Force attack after reviewing newtork logs.
 
 * **Technical Skills Examples**  
   * [**SQL Filtering**](https://github.com/codykeppen-droid/Cody.Keppen-Cybersecurity_Portfolio/blob/main/Apply%20filters%20to%20SQL%20queries.md): An example of me using filtering with SQL.
