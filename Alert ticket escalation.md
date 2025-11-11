@@ -6,7 +6,7 @@
 
 | Ticket comments  |
 | :---- |
-| Suspicious email was sent to our HR inbox. Sender is using a USSR domain and has multiple typo’s. The email contained a password protected file, in which the password was provided in the email. User used the password to open the file, which initiated the file to download.<br> Hash was created and reviewed using VirusTotal. Upon review this hash is found to be associated to be a malicious file. Trojan, backdoor and malware are seen as different descriptors. <br> **Escalating ticket to initiate response to this security threat.** |
+| Suspicious email was sent to our HR inbox. Sender is using a USSR domain and has multiple typos. The email contained a password protected file, in which the password was provided in the email. User used the password to open the file, which initiated the file to download.<br> Hash was created and reviewed using VirusTotal. Upon review this hash is found to be associated to be a malicious file. Trojan, backdoor and malware are seen as different descriptors. <br> **Escalating ticket to initiate response to this security threat.** |
 
 ### **Additional information**
 
