@@ -2,7 +2,7 @@
 
 ## Project description
 
-This project is to demonstrate using SQL filters to review different databases  in cyber security like scenarios.
+This project is to demonstrate SQL filters to review different databases  in cyber security like scenarios.
 
 ## Retrieve after hours failed login attempts
 
